@@ -48,3 +48,6 @@ Visit [your-vercel-url] to see the live demo.
 ## License
 
 MIT License 
+
+install command 
+pip install -r requirements.txt
